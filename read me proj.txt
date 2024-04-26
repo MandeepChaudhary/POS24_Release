@@ -1,0 +1,12 @@
+npm i --legacy-peer-deps
+
+npm run build
+
+npm run package
+
+
+additional - 
+
+under system variable -> VS150COMCOMNTOOLS C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools
+
+python -m pip install setuptools
